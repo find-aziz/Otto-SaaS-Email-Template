@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains a responsive HTML email template designed for SaaS products. The Otto template is specifically created for product trial notifications, feature announcements, and upgrade promotions.
-[Live Preview][https://find-aziz.github.io/Otto-SaaS-Email-Template/]
+[Live Preview](https://find-aziz.github.io/Otto-SaaS-Email-Template/).
 ## Template Features
 
 ### Design Elements
